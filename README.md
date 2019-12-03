@@ -1,2 +1,2 @@
-# python-fundamentos
-python fundamentos
+# Python Fundamentos
+Python fundamentos.
